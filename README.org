@@ -1,0 +1,5 @@
+#+title: Integer matrix approximation [R package]
+
+This repo is solely used for creating a conda package for [[https://github.com/shchurch/integer_matrix_approximation][IMA]] by [[https://github.com/shchurch][shchurch]].
+
+I am not affiliated to the developer mentioned above.
